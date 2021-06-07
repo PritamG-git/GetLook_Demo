@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://getlook.in/home">
-    <img src="src/assets/images/Getlooklogo.png" alt="Logo" width="100" height="100">
+    <img src="src/assets/images/getlook.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">GetLook Demo</h3>
@@ -16,10 +16,8 @@
 ## About The Project
 
 ![Screenshot1](ScreenShots/Screenshot1.png)
-Format: ![Screen_Shot_1](url)
 
 ![Screenshot2](ScreenShots/Screenshot2.png)
-Format: ![Screen_Shot_2](url)
 
 This project was made as an assignment for [GetLook](https://getlook.in/home). Time taken to build this was approx 2Hrs.
 
