@@ -15,10 +15,10 @@
 
 ## About The Project
 
-![Screenshot1](Screenshot1.png)
+![Screenshot1](ScreenShots/Screenshot1.png)
 Format: ![Screen_Shot_1](url)
 
-![Screenshot2](Screenshot2.png)
+![Screenshot2](ScreenShots/Screenshot2.png)
 Format: ![Screen_Shot_2](url)
 
 This project was made as an assignment for [GetLook](https://getlook.in/home). Time taken to build this was approx 2Hrs.
