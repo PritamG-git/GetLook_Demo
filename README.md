@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://getlook.in/home">
-    <img src="src/assets/images/getlook.png" alt="Logo" width="200" height="150">
+    <img src="src/assets/images/getlook.png" alt="Logo" width="300" height="100">
   </a>
 
   <h3 align="center">GetLook Demo</h3>
